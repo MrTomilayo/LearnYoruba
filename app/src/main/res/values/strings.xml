@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Learn Yoruba</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Color</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!--Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+
+    <!--Category name for the vocabulary words for things [CHAR LIMIT=20] -->
+    <string name="category_things">Things Members</string>
+
+    <!--Category name for the vocabulary words for months of the year [CHAR LIMIT=20] -->
+    <string name="category_months">Months Of The Year</string>
+</resources>
