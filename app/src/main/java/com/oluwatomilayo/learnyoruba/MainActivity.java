@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //Create a new intent to open the {@Link NumbersActivity}
-                Intent numbersIntent = new Intent(MainActivity.this, com.example.oluwatomilayo.learnyorubabasics.NumbersActivity.class);
+                Intent numbersIntent = new Intent(MainActivity.this, com.oluwatomilayo.learnyoruba.NumbersActivity.class);
 
                 //Start the new activity
                 startActivity(numbersIntent);
@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //Create a new intent to open the {@Link FamilyActivity}
-                Intent familyIntent = new Intent(MainActivity.this, com.example.oluwatomilayo.learnyorubabasics.FamilyActivity.class);
+                Intent familyIntent = new Intent(MainActivity.this, com.oluwatomilayo.learnyoruba.FamilyActivity.class);
 
                 //Start the new activity
                 startActivity(familyIntent);
@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //Create a new intent to open the {@Link ColorsActivity}
-                Intent colorsIntent = new Intent(MainActivity.this, com.example.oluwatomilayo.learnyorubabasics.ColorsActivity.class);
+                Intent colorsIntent = new Intent(MainActivity.this, com.oluwatomilayo.learnyoruba.ColorsActivity.class);
 
                 //Start the new activity
                 startActivity(colorsIntent);
@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //Create a new intent to open the {@Link ColorsActivity}
-                Intent phrasesIntent = new Intent(MainActivity.this, com.example.oluwatomilayo.learnyorubabasics.PhrasesActivity.class);
+                Intent phrasesIntent = new Intent(MainActivity.this, com.oluwatomilayo.learnyoruba.PhrasesActivity.class);
 
                 //Start the new activity
                 startActivity(phrasesIntent);
@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //Create a new intent to open the {@Link ColorsActivity}
-                Intent thingsIntent = new Intent(MainActivity.this, com.example.oluwatomilayo.learnyorubabasics.ThingsActivity.class);
+                Intent thingsIntent = new Intent(MainActivity.this, com.oluwatomilayo.learnyoruba.ThingsActivity.class);
 
                 //Start the new activity
                 startActivity(thingsIntent);
@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //Create a new intent to open the {@Link ColorsActivity}
-                Intent monthsIntent = new Intent(MainActivity.this, com.example.oluwatomilayo.learnyorubabasics.MonthsActivity.class);
+                Intent monthsIntent = new Intent(MainActivity.this, com.oluwatomilayo.learnyoruba.MonthsActivity.class);
 
                 //Start the new activity
                 startActivity(monthsIntent);

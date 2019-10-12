@@ -1,4 +1,4 @@
-package com.example.oluwatomilayo.learnyorubabasics;
+package com.oluwatomilayo.learnyoruba;
 
 /**
  * {@Link Word} represents a vocabulary word that the user wants to learn.

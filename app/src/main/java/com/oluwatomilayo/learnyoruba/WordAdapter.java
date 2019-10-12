@@ -1,4 +1,4 @@
-package com.example.oluwatomilayo.learnyorubabasics;
+package com.oluwatomilayo.learnyoruba;
 
 import android.app.Activity;
 import androidx.core.content.ContextCompat;

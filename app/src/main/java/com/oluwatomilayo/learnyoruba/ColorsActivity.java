@@ -1,4 +1,4 @@
-package com.example.oluwatomilayo.learnyorubabasics;
+package com.oluwatomilayo.learnyoruba;
 
 import android.media.MediaPlayer;
 import androidx.appcompat.app.AppCompatActivity;

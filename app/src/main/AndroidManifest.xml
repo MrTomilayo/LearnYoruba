@@ -7,9 +7,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/oduduwa_round"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/oduduwa_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
@@ -19,6 +19,32 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".NumbersActivity"
+            android:icon="@drawable/oduduwa"
+            android:label="@string/category_numbers"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".FamilyActivity"
+            android:label="@string/category_family"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".ColorsActivity"
+            android:label="@string/category_family"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".PhrasesActivity"
+            android:label="@string/category_phrases"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".ThingsActivity"
+            android:label="@string/category_things"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".MonthsActivity"
+            android:label="@string/category_months"
+            android:parentActivityName=".MainActivity"/>
     </application>
 
 </manifest>

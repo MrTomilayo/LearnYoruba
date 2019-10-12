@@ -1,4 +1,4 @@
-package com.example.oluwatomilayo.learnyorubabasics;
+package com.oluwatomilayo.learnyoruba;
 
 import android.view.View;
 import android.widget.Toast;
